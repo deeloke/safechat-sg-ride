@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const A = "/assets";
+const A = import.meta.env.BASE_URL.replace(/\/+$/, "") + "/assets";
 
 // ─── asset references ────────────────────────────────────────────────────────
 // Disclaimer
