@@ -1,0 +1,10 @@
+{
+  "description": "Provides customizable iPhone 15 templates for designers and marketers to create polished visuals and presentations quickly and easily.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
